@@ -226,14 +226,14 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 
 ## Completions
 
-| Row | Step | Description                                      | Completed                                                                                                                             |
-| --- | ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | 3-1  | 1st Favorite emoji                               | 😏                                                                                                                                    |
-| 2   | 3-2  | Link to `commit #1 from Github.com`              | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/compare/main...mawiignenntiador:learn-git-milestones:main) |
-| 3   | 3-3  | Link to markdown tables docs                     | [codecademy Markdown Tables](https://www.codecademy.com/resources/docs/markdown/tables)                                               |
-| 4   | 3-4  | What does `log` do?                              | This shows you the commit history of a repository                                                                                     |
-| 5   | 4-1  | 2nd Favorite emoji                               | 😂                                                                                                                                    |
-| 6   | 4-2  | Link to `commit #2 from Github Desktop`          |
+| Row | Step | Description                                      | Completed                                                                                                                                 |
+| --- | ---- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 3-1  | 1st Favorite emoji                               | 😏                                                                                                                                        |
+| 2   | 3-2  | Link to `commit #1 from Github.com`              | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/compare/main...mawiignenntiador:learn-git-milestones:main)     |
+| 3   | 3-3  | Link to markdown tables docs                     | [codecademy Markdown Tables](https://www.codecademy.com/resources/docs/markdown/tables)                                                   |
+| 4   | 3-4  | What does `log` do?                              | This shows you the commit history of a repository                                                                                         |
+| 5   | 4-1  | 2nd Favorite emoji                               | 😂                                                                                                                                        |
+| 6   | 4-2  | Link to `commit #2 from Github Desktop`          | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/compare/main...mawiignenntiador:learn-git-milestones:main) |
 | 7   | 5-1  | Full path to your working directory              |
 | 8   | 5-2  | Link to `commit #3 from CLI`                     |
 | 9   | 6-1  | Link to `first-website` github.com repo page     |
