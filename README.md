@@ -236,8 +236,8 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 | 6   | 4-2  | Link to `commit #2 from Github Desktop`          | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/compare/main...mawiignenntiador:learn-git-milestones:main) |
 | 7   | 5-1  | Full path to your working directory              | /Users/mawiigentony/Documents/GitHub/learn-git-milestones                                                                                 |
 | 8   | 5-2  | Link to `commit #3 from CLI`                     | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/pull/3)                                                               |
-| 9   | 6-1  | Link to `first-website` github.com repo page     |
-| 10  | 7-1  | Link to `first-website` github.io "project site" |
+| 9   | 6-1  | Link to `first-website` github.com repo page     | https://github.com/mawiignenntiador/first-website                                                                                         |
+| 10  | 7-1  | Link to `first-website` github.io "project site" | https://mawiignenntiador.github.io/first-website/                                                                                         |
 
 # PART 2 - Git Collaboration
 
